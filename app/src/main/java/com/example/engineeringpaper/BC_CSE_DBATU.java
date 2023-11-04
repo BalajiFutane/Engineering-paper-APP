@@ -16,5 +16,11 @@ public class BC_CSE_DBATU extends AppCompatActivity {
         PDFView pdfView;
         pdfView=findViewById(R.id.pdfview);
         pdfView.fromAsset("BC.pdf").load();
+
+
+
+        // HELlo This is second commit
+
+
     }
 }

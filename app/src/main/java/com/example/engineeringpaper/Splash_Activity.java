@@ -28,5 +28,8 @@ public class Splash_Activity extends AppCompatActivity {
         }, 6000);
 
 
+        //this si second commit
+
+
     }
 }
