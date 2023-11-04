@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969651532091",
+    "project_id": "engineering-paper",
+    "storage_bucket": "engineering-paper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969651532091:android:76c7d0812aac61714e071e",
+        "android_client_info": {
+          "package_name": "com.example.engineeringpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969651532091-n8hhevt0951ol90gpjdc1evvqhean2tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIh4_ke-64xrJXEeWoUKDm4EAVh42EIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969651532091-n8hhevt0951ol90gpjdc1evvqhean2tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761673072136",
+    "project_id": "dbatu-pyq",
+    "storage_bucket": "dbatu-pyq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761673072136:android:17422139eed188924e9bbd",
+        "android_client_info": {
+          "package_name": "com.example.dbatupyq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761673072136-vfctqe16at8jmntpeonilaopk56cf8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZotYdBIF7LnOw-sedj5CKl_hViWs3nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761673072136-vfctqe16at8jmntpeonilaopk56cf8lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
